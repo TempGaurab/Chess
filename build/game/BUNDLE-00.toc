@@ -1,0 +1,1 @@
+([('game', '/Users/gauurab/Documents/Projects/Chess/dist/game', 'EXECUTABLE')],)
